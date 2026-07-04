@@ -1,3 +1,8 @@
+# Benchmarking libsql behavior under load
+
+This file contains all the benchmarking results and observations that led to the discovery of the issue.
+Logs from FastAPI application are included but can be quite long.
+
 ## Testing the application under load with `wrk`
 
 ### Testing environment:
