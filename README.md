@@ -13,6 +13,8 @@ The project intentionally contains only the minimum amount of code required to r
 
 The issue was originally discovered while load testing a larger application. This repository was created to isolate the problem and eliminate unrelated application logic.
 
+> Check the `benchmark.md` for commands used, logs of application output, and other details of the original investigation.
+
 ---
 
 ## Setup
