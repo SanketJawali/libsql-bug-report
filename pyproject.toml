@@ -1,0 +1,14 @@
+[project]
+name = "libsql-demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "fastapi[standard]>=0.139.0",
+    "libsql>=0.1.11",
+    "pyturso>=0.6.1",
+    "sqlalchemy>=2.0.51",
+    "sqlalchemy-libsql>=0.2.0",
+]
